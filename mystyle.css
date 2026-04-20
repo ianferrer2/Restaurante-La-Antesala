@@ -1,0 +1,10 @@
+body {background-color: blanchedalmond;}
+div {margin-left: auto; margin-right: auto; width: 70%;}
+h1 {text-align: center; background-color: rgb(233, 172, 98); color: rgb(252, 249, 255); line-height: 180%;}
+nav {text-align: center; line-height: 180%; background-color: rgb(219, 142, 79); color: rgb(9, 10, 10);}
+main {padding: 0px 25px;}
+#enlace_menu {color: rgb(1, 15, 15);}
+blockquote {color: rgb(3, 3, 63);}
+footer {text-align: center; line-height: 180%; background-color: rgb(216, 134, 27); color: bisque;}
+.config_text {font-size: 1.25em; text-align: justify;}
+p img {float: left; width: 200px; margin-right: 25px;}
